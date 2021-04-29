@@ -1,2 +1,2 @@
-# geopandas-location-distance
-Playbook for using geopandas to calculate distance between locations
+# geopy-location-distance-not-geopandas
+Playbook for using geopy to calculate distance between locations
